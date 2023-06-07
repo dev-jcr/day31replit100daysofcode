@@ -1,4 +1,4 @@
-
+# Music interface with change of color and alignment
 # My solution
 
 import os, time
